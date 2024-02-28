@@ -16,7 +16,7 @@
 [values.json](https://github.com/pybotoff/LoadTesting/blob/main/task3/values.json) - файл, который содержит результаты прохождения тестов с уникальными id.  
 [report.json](https://github.com/pybotoff/LoadTesting/blob/main/task3/report.json) - пример уже отработанного алгоритма.    
 
-[TASK 3](https://github.com/pybotoff/LoadTesting/tree/main/task4)  
+[TASK 4](https://github.com/pybotoff/LoadTesting/tree/main/task4)  
 [task4.py](https://github.com/pybotoff/LoadTesting/blob/main/task4/task4.py) - файл, сделанный строго по ТЗ, который будет принимать аргументы уже при вызове из консоли.  
 [task4-script(no terminal).py](https://github.com/pybotoff/LoadTesting/blob/main/task4/task4-script(no%20terminal).py) - файл, сделанный по ТЗ, но в котором можно указывать аргументы уже после запуска скрипта (в том числе через консоль=интерпретатор).  
 [task4-script(no terminal-with_enter_list).py](https://github.com/pybotoff/LoadTesting/blob/main/task4/task4-script(no%terminal-with_enter_list).py) - файл, сделанный по ТЗ, но в котором можно указывать аргументы уже после запуска скрипта (в том числе через консоль=интерпретатор), но более расширенный: можно обойтись без помощи nums.txt.
