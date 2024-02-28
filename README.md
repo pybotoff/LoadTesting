@@ -21,3 +21,5 @@
 [task4-script(no terminal).py](https://github.com/pybotoff/LoadTesting/blob/main/task4/task4-script(no%20terminal).py) - файл, сделанный по ТЗ, но в котором можно указывать аргументы уже после запуска скрипта (в том числе через консоль=интерпретатор).  
 [task4-script(no terminal-with_enter_list).py](https://github.com/pybotoff/LoadTesting/blob/main/task4/task4-script(no%terminal-with_enter_list).py) - файл, сделанный по ТЗ, но в котором можно указывать аргументы уже после запуска скрипта (в том числе через консоль=интерпретатор), но более расширенный: можно обойтись без помощи nums.txt.  
 [nums.txt](https://github.com/pybotoff/LoadTesting/blob/main/task4/nums.txt) - файл с примерным образцом того, как должен выглядеть файл, из которого будут читаться элементы массива.
+
+До встречи!
